@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">adb无线连</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_instructions">使用该软件需要root权限</string>
+    <string name="port_instructions">不输入端口，则端口为“5555”</string>
+    <string name="action_settings">Settings</string>
+    <string name="run">运行</string>
+    <string name="port_is_empty">端口为空！</string>
+    <string name="success">设置端口成功！</string>
+    <string name="adb_order">请在连接端输入以下命令\n%s</string>
+
+</resources>
